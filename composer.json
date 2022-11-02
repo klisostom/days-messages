@@ -1,0 +1,17 @@
+{
+    "name": "klisostom/teste",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "klisostom",
+            "email": "klis@pm.me"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
